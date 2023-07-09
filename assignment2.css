@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+  }
+  
+  .hobby {
+    display: inline-block;
+    margin: 10px;
+    font-size:24px;
+  }
+  
+  .hobby img {
+    display: inline-block;
+    border: 5px solid gray;
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px;
+  }
